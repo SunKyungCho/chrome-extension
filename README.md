@@ -4,7 +4,7 @@ hello worldㅁ
 
 이건테스트중입니다. 
 
-다시 테스트를 해보자:ㅈㅂ
+브런치를 만들어보자 어떩까ㅣ?
 alksjdflkjasdlfkj
 
 Test push 
