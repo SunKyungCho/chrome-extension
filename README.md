@@ -4,7 +4,8 @@ hello worldㅁ
 
 이건테스트중입니다. 
 
-다시 테스트를 해보자:ㅈㅂ
+이것은 바로 마스터 정보이지 
+
 alksjdflkjasdlfkj
 
 Test push 
