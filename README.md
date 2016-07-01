@@ -6,7 +6,7 @@ hello worldㅁ
 
 이것은 바로 마스터 정보이지 
 
-브런치를 만들어보자 어떩까ㅣ?
+브런치를 만들어보자 어떩까ㅣ?dfg
 
 alksjdflkjasdlfkj
 
